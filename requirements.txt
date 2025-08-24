@@ -1,0 +1,8 @@
+Flask==2.3.3
+twilio==8.5.0
+gspread==5.10.0
+google-auth==2.23.0
+openai==0.27.9
+beautifulsoup4==4.12.2
+requests==2.31.0
+gunicorn==21.2.0
